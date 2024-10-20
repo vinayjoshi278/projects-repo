@@ -328,7 +328,7 @@ span {
 .hero-section {
   height: 25vw;
   display: flex;
-  width: 100vw;
+  width: 98.72vw;
   background-image: url("books\ icon.jpg");
   background-size: cover;
   justify-content: center;
@@ -367,7 +367,7 @@ span {
 
 .shop-section {
   height: 100%;
-  width: 100vw;
+  width: 98.72vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -651,7 +651,7 @@ footer {
   color: white;
   border-top: 0.5px solid rgba(255, 255, 255, 0.247);
   height: 7.25rem;
-  width: 100vw;
+  width: 98.72vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -705,7 +705,7 @@ footer {
 
 .foot-panel4 {
   height: 25rem;
-  width: 100vw;
+  width: 98.72vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -732,7 +732,7 @@ footer {
 
 .foot-panel5 {
   height: 7rem;
-  width: 100vw;
+  width: 98.72vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
